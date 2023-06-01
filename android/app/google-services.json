@@ -1,0 +1,47 @@
+{
+    "project_info": {
+        "project_number": "88699299948",
+        "project_id": "fahmi-attentdance",
+        "storage_bucket": "fahmi-attentdance.appspot.com"
+    },
+    "client": [
+        {
+            "client_info": {
+                "mobilesdk_app_id": "1:88699299948:android:24f21b3dc327702f9b5049",
+                "android_client_info": {
+                    "package_name": "com.fahmi"
+                }
+            },
+            "oauth_client": [
+                {
+                    "client_id": "88699299948-gin65278dd6c9jv26m6ftg4hbb50r5u8.apps.googleusercontent.com",
+                    "client_type": 1,
+                    "android_info": {
+                        "package_name": "com.fahmi",
+                        "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+                    }
+                },
+                {
+                    "client_id": "88699299948-12g59oof5v4vhmvinu47k4bpomt0oclk.apps.googleusercontent.com",
+                    "client_type": 3
+                }
+            ],
+            "api_key": [
+                {
+                    "current_key": "AIzaSyA6U5I2_HK154mbOcr86SPc5k_wIFnjDBU"
+                }
+            ],
+            "services": {
+                "appinvite_service": {
+                    "other_platform_oauth_client": [
+                        {
+                            "client_id": "88699299948-12g59oof5v4vhmvinu47k4bpomt0oclk.apps.googleusercontent.com",
+                            "client_type": 3
+                        }
+                    ]
+                }
+            }
+        }
+    ],
+    "configuration_version": "1"
+}
